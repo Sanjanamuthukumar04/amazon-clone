@@ -175,7 +175,7 @@ document.querySelector('.js-place-order-button')?.addEventListener('click', () =
 
   const emptyCartMsg = document.querySelector('.js-empty-cart-message');
   if (emptyCartMsg) {
-    emptyCartMsg.innerHTML = `Your order has been placed! <a href="amazon.html">Continue shopping.</a>`;
+    emptyCartMsg.innerHTML = `Your order has been placed! <a href="index.html">Continue shopping.</a>`;
   }
 });
 
