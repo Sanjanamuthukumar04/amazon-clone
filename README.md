@@ -42,7 +42,7 @@ A **functional Amazon clone** built with **HTML, CSS, and JavaScript**, implemen
 
 ## 🚀 Live Demo
 
-🌐 https://sanjanamuthukumar04.github.io/amazon-clone/
+🌐 [Live Demo](https://amazon-clone-murex-seven-28.vercel.app/)
 
 ---
 
