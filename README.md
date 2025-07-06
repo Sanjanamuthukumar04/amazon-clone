@@ -3,6 +3,11 @@
 
 A **functional Amazon clone** built with **HTML, CSS, and JavaScript**, implementing the homepage and checkout/cart page with key shopping features. The project features a responsive and interactive shopping experience with cart management, checkout flow, live search, delivery options, and size charts — all styled to resemble Amazon.
 
+📄 Disclaimer
+This project is a personal clone created for educational and demonstration purposes only.
+It is not affiliated with, endorsed by, or connected to the official Amazon in any way.
+All trademarks, logos, and brand names used in this project belong to their respective owners.
+
 ---
 
 ## 🌟 Features
